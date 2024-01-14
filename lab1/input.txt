@@ -1,0 +1,3 @@
+bool test_func() {
+    int r = 21397;
+}
